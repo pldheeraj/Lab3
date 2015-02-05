@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.example.lpfm4.lab3"
+        applicationId "com.example.lpfm4.sampleapplication"
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
